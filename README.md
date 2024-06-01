@@ -1,14 +1,14 @@
 # Privacy-Impact-Assessment
 # Info
 
-# Περιγραφή Project
-Το Project Privacy-Impact-Assessment περιλαμβάνει την ανάλυση αντικτύπου της φυσικής πρόσβασης του συστήματος e-emvolio by gov.gr μέσω του λογισμικού Privacy Impact Assessment Tool - PIA της CNIL.
+# Project Description
+The Privacy-Impact-Assessment Project involves analyzing the impact of physical access to the e-emvolio system by gov.gr using the Privacy Impact Assessment Tool (PIA) by CNIL.
 
-# Μεθοδολογία 
-Αρχικά, αρχίζουμε με το γενικό πλαίσιο το οποίο αφορά την σαφή εικόνα της επεξεργασίας των εν λόγω προσωπικών δεδομένων. Ακολουθεί το τμήμα Θεμελιώδεις Αρχές το οποίο μας επιτρέπει να δημιουργήσουμε το πλαίσιο συμμόρφωσης για τις αρχές απορρήτου. Έπειτα προχωράμε στην ενότητα Κίνδυνοι όπου μας επιτρέπεται να αξιολογήσουμε τους κινδύνους που αφορούν στην ιδιωτική ζωή, λαμβάνοντας υπόψη υπάρχοντα ή προγραμματισμένα μέτρα σχετικά με την ασφάλεια των προσωπικών δεδομένων. Τέλος, έχουμε την ενότητα Επικύρωση μέσω της οποίας προετοιμάζουμε και επισημοποιούμε την επικύρωση της ΕΑ με τη συνθετική εικόνα από τα προηγούμενα τμήματα του λογισμικού και τις ανάλογες γραφικές απεικονίσεις. 
+# Methodology
+We start with the general framework, which involves a clear picture of the processing of the personal data in question. This is followed by the Fundamental Principles section, which allows us to create the compliance framework for privacy principles. Next, we move on to the Risks section, where we evaluate the risks related to privacy, considering existing or planned measures concerning the security of personal data. Finally, we have the Validation section, where we prepare and formalize the validation of the PIA with a synthetic overview from the previous sections of the software and corresponding graphical representations.
 
-# Υλοποίηση
-Η υλοποίηση του συγκεκριμένου Project πραγματοποιήθηκε από τον Καλδάνη Χρήστο, προπτυχιακό φοιτητή στο τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου.
+# Implementation
+This project was implemented by Christos Kaldanis, an undergraduate student at the Department of Informatics, Ionian University.
 
-# Αξιολόγηση Project
-Η αξιολόγηση του συγκεκριμένου Project ήταν εξαιρετική με κριτική: 10/10.
+# Project Evaluation
+The evaluation of this project was excellent, with a rating of 10/10.
